@@ -8,7 +8,7 @@ I'm a passionate developer from Viet Nam!
     💻 Programming Languages: C, C++, JavaScript, React, Node.js
     🔧 Tech Stack:
         Frontend: HTML, CSS, JavaScript, React.js, Bootstrap
-        Backend: Node.js, Express.js
+        Backend: Node.js, Express.js    
         Database: MySQL (XAMPP)
         Tools: Git, GitHub, Docker
     🎨 Current Project: Developing a fashion e-commerce platform
@@ -18,7 +18,8 @@ I'm a passionate developer from Viet Nam!
 
     Fashion E-commerce Website
         A full-stack online clothing store with a responsive design using React, Node.js, and MySQL.
-        Check it out: [View my project on GitHub](https://github.com/noahihi203/IE104-Web.git)
+        Check it out: 
+[View my project on GitHub](https://github.com/noahihi203/IE104-Web.git)
 
     Other Projects
         BE Booking care:  [![View on GitHub](https://img.shields.io/badge/-View_on_GitHub-black?style=for-the-badge&logo=GitHub)](https://github.com/noahihi203/Nodejs_Bookingcare.git)
