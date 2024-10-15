@@ -18,15 +18,15 @@ I'm a passionate developer from Viet Nam!
 
     Fashion E-commerce Website
         A full-stack online clothing store with a responsive design using React, Node.js, and MySQL.
-        Check it out: [https://github.com/noahihi203/IE104-Web.git]
+        Check it out: [![View on GitHub](https://img.shields.io/badge/-View_on_GitHub-black?style=for-the-badge&logo=GitHub)](https://github.com/noahihi203/IE104-Web.git)
 
     Other Projects
-        BE Booking care: [https://github.com/noahihi203/Nodejs_Bookingcare.git]
-        FE Booking care: [https://github.com/noahihi203/Reacjs_Bookingcare.git]
+        BE Booking care:  [![View on GitHub](https://img.shields.io/badge/-View_on_GitHub-black?style=for-the-badge&logo=GitHub)](https://github.com/noahihi203/Nodejs_Bookingcare.git)
+        FE Booking care: [![View on GitHub](https://img.shields.io/badge/-View_on_GitHub-black?style=for-the-badge&logo=GitHub)](https://github.com/noahihi203/Reacjs_Bookingcare.git)
 
 📫 How to reach me
 
-    Email: [22520733@gm.uit.edu.vn]
+    Email: [da02470247@gmail.com]
     LinkedIn: [NULL]
     Portfolio: [NULL]
 
