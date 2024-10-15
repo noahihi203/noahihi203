@@ -16,18 +16,18 @@ I'm a passionate developer from Viet Nam!
 
 🚀 My Projects
 
-    Fashion E-commerce Website
+ Fashion E-commerce Website
         A full-stack online clothing store with a responsive design using React, Node.js, and MySQL.
         Check it out: 
---      [View my project on GitHub](https://github.com/noahihi203/IE104-Web.git)
+            [View my project on GitHub](https://github.com/noahihi203/IE104-Web.git)
 
-    Other Projects
---      BE Booking care:  [![View on GitHub](https://img.shields.io/badge/-View_on_GitHub-black?style=for-the-badge&logo=GitHub)](https://github.com/noahihi203/Nodejs_Bookingcare.git)
-        FE Booking care: [![View on GitHub](https://img.shields.io/badge/-View_on_GitHub-black?style=for-the-badge&logo=GitHub)](https://github.com/noahihi203/Reacjs_Bookingcare.git)
+Other Projects
+            BE Booking care:  [![View on GitHub](https://img.shields.io/badge/-View_on_GitHub-black?style=for-the-badge&logo=GitHub)](https://github.com/noahihi203/Nodejs_Bookingcare.git)
+            FE Booking care: [![View on GitHub](https://img.shields.io/badge/-View_on_GitHub-black?style=for-the-badge&logo=GitHub)](https://github.com/noahihi203/Reacjs_Bookingcare.git)
 
 📫 How to reach me
 
-    Email: [da02470247@gmail.com]
+    Email: [NULL]
     LinkedIn: [NULL]
     Portfolio: [NULL]
 
@@ -38,4 +38,4 @@ I'm a passionate developer from Viet Nam!
 
 ✨ Fun Fact
 
-    I love learning Japanese and building side projects in my free time.
+    If you know you know
