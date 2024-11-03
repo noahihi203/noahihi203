@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quoc Lam</h1>
 <h3 class="heading-element">I'm a student at VNU-HCM UIT (University of Information Technology) in HCM City.</h3>
- <h4>ᓚᘏᗢ</h4>
  
 - 🌱 I’m currently learning **ReactJs, React Native**
 
