@@ -5,9 +5,7 @@
 
 - 🎯Future Goals **Dive deeper into full-stack development and mobile development**
 
-- 📫 How to reach me **vn.quoclam@gmail.com**
-
-<h3 align="left">Connect with me: vn.quoclam@gmail.com</h3>
+<h3 align="left">Connect with me: **vn.quoclam@gmail.com**</h3>
 <p align="left">
 </p>
 
