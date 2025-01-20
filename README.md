@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vn.quoclam@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: vn.quoclam@gmail.com</h3>
 <p align="left">
 </p>
 
