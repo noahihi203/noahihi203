@@ -5,7 +5,6 @@ I'm a student at VNU-HCM UIT (University of Information Technology) in HCM City.
 
 * 🌍  I'm based in Viet Nam
 * ✉️  You can contact me at [vn.quoclam@gmail.com](mailto:vn.quoclam@gmail.com)
-* 🧠  I'm learning Nestjs
 
 ### Frontend
 <p align="center">
