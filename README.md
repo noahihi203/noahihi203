@@ -27,7 +27,3 @@ I'm a student at VNU-HCM UIT (University of Information Technology) in HCM City.
   </a>
 </p>
 
-### My GitHub Stats
-
-![noahihi203's Stats](https://github-readme-stats.vercel.app/api?username=noahihi203&theme=omni&show_icons=true&hide_border=false&count_private=true)
-![noahihi203's Streak](https://github-readme-streak-stats.herokuapp.com/?user=noahihi203&theme=omni&hide_border=false)
